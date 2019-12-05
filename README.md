@@ -1,4 +1,4 @@
-# flutter_first
+# flutter Quiz App
 
 A new Flutter application.
 
